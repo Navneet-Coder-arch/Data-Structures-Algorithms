@@ -1,5 +1,4 @@
 #include <iostream>
-//addition of two matrices
 
 using namespace std;
 
